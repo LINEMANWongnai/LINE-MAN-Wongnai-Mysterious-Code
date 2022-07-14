@@ -12,9 +12,9 @@ LINE MAN Wongnai ท้าคุณชาว DEV Geek ร่วมสนุก�
  (3.) แชร์ลิงก์คำตอบเข้ามาที่ https://bit.ly/LMWNMysteriousCode
  
 Create GitHub Account ได้ที่ [Join GitHub](https://github.com/)
-.
 
-## รางวัล
+
+## Reward
 
 LINE MAN Food Coupon 500 บาท จำนวน 20 รางวัล สำหรับผู้ที่ส่งคำตอบที่ถูกต้อง และ แชร์โพส LINE MAN Wongnai Mysterious Code เป็นสาธารณะ พร้อมติด #LMWNMysteriousCode
 
@@ -28,8 +28,10 @@ LINE MAN Food Coupon 500 บาท จำนวน 20 รางวัล สำ�
 
 คุณสามารถอ่านนโยบายคุ้มครองความเป็นส่วนตัวได้ที่นี่ [Privacy Policy](https://drive.google.com/file/d/1Dpz7qocMKSZXdY2zIMXixd-dQLyI5ADa/view)
 
+
 # LINE MAN Wongnai Mysterious Code
 ![image](![mysterious code (1)](https://user-images.githubusercontent.com/108649272/178898250-110232c8-b81c-4b7e-a9ca-369a9410d2a5.png))
+
 
 # Problem
 
