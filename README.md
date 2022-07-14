@@ -3,7 +3,7 @@
 LINE MAN Wongnai ท้าคุณชาว DEV Geek ร่วมสนุกตอบคำถาม "Mysterious Code"
 ลุ้นรับ LINE MAN Food Coupon มูลค่า 500 บาท จำนวน 20 รางวัล รวมมูลค่ากว่า 10,000 บาทไปเลย!
 
-กติกาการ่วมสนุก
+##กติกาการ่วมสนุก##
 
  (1.) แก้โค้ดที่ [GitHub/LMWN/MysteriousCode](https://github.com/LINEMANWongnai/LINE-MAN-Wongnai-Mysterious-Code)
  
@@ -18,11 +18,15 @@ Create GitHub Account ได้ที่ [Join GitHub](https://github.com/)
 
 LINE MAN Food Coupon 500 บาท จำนวน 20 รางวัล สำหรับผู้ที่ส่งคำตอบที่ถูกต้อง และ แชร์โพส LINE MAN Wongnai Mysterious Code เป็นสาธารณะ พร้อมติด #LMWNMysteriousCode
 
-ร่วมสนุกได้ตั้งแต่วันที่ 15 - 21 กรกฎาคม 2565 เวลา 12.00 น.
+
+ร่วมสนุกได้ตั้งแต่วันนี้ - 21 กรกฎาคม 2565 เวลา 12.00 น.
+
 
 ประกาศรายชื่อผู้โชคดีวันที่ 21 กรกฎาคม 2565 ทาง Page Facebook: Life at LINE MAN Wongnai เวลา 18:00 น.
 
+
 *รางวัล LMWN Mysterious Code ขอสงวนสิทธิ์ให้กับบุคคลภายนอกบริษัท LINE MAN Wongnai เท่านั้น
+
 
 **คำตัดสินของทีมงานถือเป็นที่สิ้นสุด และทางบริษัทขอสงวนสิทธิ์ผู้ที่รับรางวัลต้องปฏิบัติตามเงื่อนไขที่บริษัทกำหนดเท่านั้น**
 
