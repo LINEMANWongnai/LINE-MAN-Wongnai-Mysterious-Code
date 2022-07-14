@@ -2,7 +2,7 @@
 
 LINE MAN Wongnai ท้าคุณชาว DEV Geek ร่วมสนุกตอบคำถาม "Mysterious Code"
 ลุ้นรับ LINE MAN Food Coupon มูลค่า 500 บาท จำนวน 20 รางวัล รวมมูลค่ากว่า 10,000 บาทไปเลย!
-.
+
 กติกาการ่วมสนุก
 
  (1.) แก้โค้ดที่ [GitHub/LMWN/MysteriousCode](https://github.com/LINEMANWongnai/LINE-MAN-Wongnai-Mysterious-Code)
