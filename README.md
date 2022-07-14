@@ -40,7 +40,7 @@ LINE MAN Food Coupon 500 บาท จำนวน 20 รางวัล สำ�
 
 
 # LINE MAN Wongnai Mysterious Code
-![image](![mysterious code (1)](https://user-images.githubusercontent.com/108649272/178898250-110232c8-b81c-4b7e-a9ca-369a9410d2a5.png))
+![image]![mysterious code (1)](https://user-images.githubusercontent.com/108649272/178898250-110232c8-b81c-4b7e-a9ca-369a9410d2a5.png)
 
 
 # Problem
