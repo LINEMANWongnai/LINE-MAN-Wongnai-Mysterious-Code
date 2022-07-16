@@ -57,3 +57,12 @@ Create GitHub Account ได้ที่ [Join GitHub](https://github.com/)
 
 **sd, _ := base64.StdEncoding.DecodeString(secret)**
 
+
+# Benchmark Result
+
+
+```
+$ go test -bench=. -benchmem
+
+BenchmarkReverse-12    	52794418	        22.56 ns/op	       0 B/op	       0 allocs/op
+```
