@@ -17,6 +17,6 @@ func TestReverseSecretToPlainText(t *testing.T) {
 	whatIsIt = s.Reverse(sd)
 
 	if whatIsIt != "Join:us:at:LINE:MAN:Wongnai" {
-		t.Errorf("Expect Join:us:at:LINE:MAN:Wongnai")
+		t.Errorf("Expect Join:us:at:LINE:MAN:Wongnai but receive %s", whatIsIt)
 	}
 }
