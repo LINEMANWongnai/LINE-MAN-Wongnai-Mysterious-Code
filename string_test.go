@@ -21,6 +21,22 @@ func TestReverseSecretToPlainText(t *testing.T) {
 	}
 }
 
+func TestReversePlainTextToSecret(t *testing.T) {
+	var secret string
+
+	plainText := "Join:us:at:LINE:MAN:Wongnai"
+
+	s := String{}
+
+	reversedPlainText := s.Reverse([]byte(plainText))
+
+	secret = base64.StdEncoding.EncodeToString([]byte(reversedPlainText))
+
+	if secret != "aWFuZ25vVzpOQU06RU5JTDp0YTpzdTpuaW9K" {
+		t.Errorf("Expect aWFuZ25vVzpOQU06RU5JTDp0YTpzdTpuaW9K")
+	}
+}
+
 func BenchmarkReverse(b *testing.B) {
 	for n := 0; n < b.N; n++ {
 		s := String{}
