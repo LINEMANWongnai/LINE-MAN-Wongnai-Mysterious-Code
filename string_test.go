@@ -33,7 +33,7 @@ func TestReversePlainTextToSecret(t *testing.T) {
 	secret = base64.StdEncoding.EncodeToString([]byte(reversedPlainText))
 
 	if secret != "aWFuZ25vVzpOQU06RU5JTDp0YTpzdTpuaW9K" {
-		t.Errorf("Expect aWFuZ25vVzpOQU06RU5JTDp0YTpzdTpuaW9K")
+		t.Errorf("Expect aWFuZ25vVzpOQU06RU5JTDp0YTpzdTpuaW9K but receive %s", secret)
 	}
 }
 
