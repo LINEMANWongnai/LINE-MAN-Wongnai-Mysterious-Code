@@ -20,3 +20,10 @@ func TestReverseSecretToPlainText(t *testing.T) {
 		t.Errorf("Expect Join:us:at:LINE:MAN:Wongnai but receive %s", whatIsIt)
 	}
 }
+
+func BenchmarkReverse(b *testing.B) {
+	for n := 0; n < b.N; n++ {
+		s := String{}
+		s.Reverse([]byte("iangnoW:NAM:ENIL:ta:su:nioJ"))
+	}
+}
